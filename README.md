@@ -79,14 +79,9 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Tenyokj\&show_icons=true\&hide_border=true)
-
 ## 🧠 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenyokj&layout=compact&theme=radical&hide_border=true)
-
 
 ---
 
