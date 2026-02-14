@@ -81,7 +81,7 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenyokj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tenyokj&theme=tokyo-night&hide_border=true)
 
 ---
 
