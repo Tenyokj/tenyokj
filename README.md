@@ -22,8 +22,6 @@ Currently focused on:
 
 ## 🧰 My Tech Stack
 
-### Blockchain
-
 ![Solidity](https://skillicons.dev/icons?i=solidity)
 ![Ethereum](https://skillicons.dev/icons?i=ethereum)
 ![Hardhat](https://skillicons.dev/icons?i=hardhat)
@@ -34,6 +32,7 @@ Currently focused on:
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Ethers](https://skillicons.dev/icons?i=ethers)
+![Ethers](https://skillicons.dev/icons?i=thegraph)
 
 **Also using:** OpenZeppelin contracts & upgradeable patterns
 
