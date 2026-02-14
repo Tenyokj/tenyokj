@@ -1,4 +1,4 @@
-## Hi there 👋
+## Tenyokj! [![Ethereum](https://cdn3.emoji.gg/emojis/7903-ethereum.png)](https://emoji.gg/emoji/7903-ethereum)[![typescript](https://cdn3.emoji.gg/emojis/6276-typescript.png)](https://emoji.gg/emoji/6276-typescript)
 
 <!--
 **Tenyokj/tenyokj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
