@@ -1,4 +1,4 @@
-# Tenyokj 👋
+#                                                         Tenyokj 👋
 
 ❤️‍🔥 **My Vibe Statement**
 
@@ -72,16 +72,10 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 
 ### 🔗 Project Links
 
-* 📦 Core Contracts: *link*
-* 💻 Frontend repo: *link*
-* 📚 Documentation: *link*
+* 📦 Core Contracts: [bert-core](https://github.com/tenyokj/bert-core)
+* 💻 Frontend repo: *coming soon*
+* 📚 Documentation: *coming soon*
 * 🌐 Website: *coming soon*
-
----
-
-## 🧠 Most Used Languages
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tenyokj&theme=tokyo-night&hide_border=true)
 
 ---
 
