@@ -7,7 +7,7 @@ Writing projects, committing, pushing to the repo — that's relaxation.
 
 ---
 
-<img src="asset.jpg" height="300" width="1000" style="border-radius:50%"/>
+<img src="asset.jpg" height="200" width="1000" style="border-radius:50%"/>
 
 ## 🚀 About Me
 
