@@ -28,16 +28,10 @@ Currently focused on:
 ![Ethereum](https://skillicons.dev/icons?i=ethereum)
 ![Hardhat](https://skillicons.dev/icons?i=hardhat)
 ![Rust](https://skillicons.dev/icons?i=rust)
-
-### Frontend
-
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Next.js](https://skillicons.dev/icons?i=nextjs)
-
-### Backend / Web3 Tools
-
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Ethers](https://skillicons.dev/icons?i=ethers)
 
