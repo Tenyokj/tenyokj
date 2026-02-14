@@ -42,8 +42,6 @@ Currently focused on:
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 
-**Also using:** OpenZeppelin contracts & upgradeable patterns
-
 ---
 
 ## 🟡 Main Project — BERT DAO dApp
@@ -87,7 +85,7 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenyokj\&layout=compact\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tenyokj&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
