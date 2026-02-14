@@ -11,7 +11,7 @@ Writing projects, committing, pushing to the repo — that's relaxation.
 
 ## 🚀 About Me
 
-Frontend developer moving deep into **Web3 & Smart Contracts**.
+Solidity developer moving deep into **building real products**.
 I love building real products, DAOs and on-chain systems.
 
 Currently focused on:
