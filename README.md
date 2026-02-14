@@ -19,20 +19,28 @@ Currently focused on:
 * Full-stack Web3 apps
 
 ---
-
 ## 🧰 My Tech Stack
 
-![Solidity](https://skillicons.dev/icons?i=solidity)
-![Ethereum](https://skillicons.dev/icons?i=ethereum)
-![Hardhat](https://skillicons.dev/icons?i=hardhat)
-![Rust](https://skillicons.dev/icons?i=rust)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Ethers](https://skillicons.dev/icons?i=ethers)
-![Ethers](https://skillicons.dev/icons?i=thegraph)
+### Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge\&logo=ethereum\&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge\&logo=ethereum)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TheGraph](https://img.shields.io/badge/TheGraph-6f4cff?style=for-the-badge\&logo=thegraph)
+
+### Backend / Languages
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 
 **Also using:** OpenZeppelin contracts & upgradeable patterns
 
