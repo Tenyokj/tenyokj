@@ -11,7 +11,7 @@ Writing projects, committing, pushing to the repo — that's relaxation.
 
 ## 🚀 About Me
 
-Solidity developer moving deep into **building real products**.
+Solidity developer moving deep into **building something real huge*.
 I love building real products, DAOs and on-chain systems.
 
 Currently focused on:
