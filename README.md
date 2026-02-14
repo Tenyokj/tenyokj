@@ -7,6 +7,8 @@ Writing projects, committing, pushing to the repo — that's relaxation.
 
 ---
 
+<img src="asset.jpg" width="80" style="border-radius:50%"/>
+
 ## 🚀 About Me
 
 Frontend developer moving deep into **Web3 & Smart Contracts**.
