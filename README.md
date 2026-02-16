@@ -75,9 +75,9 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 ### 🔗 Project Links
 
 * 📦 Core Contracts: [bert-core](https://github.com/tenyokj/bert-core)
-* 💻 Documentation repo: [bert-core](https://github.com/tenyokj/bert-docs)
-* 📚 Documentation: [bert-core](https://bertdao-docs.vercel.app)
-* 🌐 Website: [bert-core](https://bertdao.vercel.app)
+* 💻 Documentation repo: [bert-docs](https://github.com/tenyokj/bert-docs)
+* 📚 Documentation: [website](https://bertdao-docs.vercel.app)
+* 🌐 Website: [website](https://bertdao.vercel.app)
 
 ---
 
