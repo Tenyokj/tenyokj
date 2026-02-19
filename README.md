@@ -89,6 +89,8 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 
 ---
 
+## 💼 [Portfolio Website](https://tenyokj.vercel.app)
+
 ## 🤝 Let’s Connect
 
 Always open to collaboration on Web3, DAO and startup ideas 🚀
