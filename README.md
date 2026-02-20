@@ -89,6 +89,11 @@ Users submit ideas, vote with stake, and receive transparent on-chain grant dist
 
 ---
 
+# 📕 Github Stats
+[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=tenyokj&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
+
+---
+
 ## 💼 [Portfolio Website](https://tenyokj.vercel.app)
 
 ## 🤝 Let’s Connect
