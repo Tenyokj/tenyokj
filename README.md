@@ -118,7 +118,7 @@ https://bertdao.vercel.app
 
 ![banner-asw](alsoswap.png)
 
-## 🔵 AlsoSwap Protocol
+## 🔴 AlsoSwap Protocol
 
 Upgradeable **AMM DEX protocol for DAO tokens**.
 
