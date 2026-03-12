@@ -22,7 +22,7 @@ Writing smart contracts, committing code, pushing changes — that's real relaxa
 
 ---
 
-<img src="black-banner.jpeg" height="200" width="1000" style="border-radius:50%"/>
+<img src="black-banner.jpeg" height="280" width="1000" style="border-radius:50%"/>
 
 ---
 
