@@ -214,6 +214,11 @@ Always open to collaboration on:
 • protocol development
 • startup ideas
 
+## Contacts: 
+• [Telegram](https://t.me/tenkoffj)
+• [Gmail](mailto:dv842449@gmail.com)
+• [Reddit](https://www.reddit.com/user/PralineSeparate5261/)
+
 ---
 
 <p align="center">
