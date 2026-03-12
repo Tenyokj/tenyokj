@@ -1,27 +1,53 @@
-#                                                         Tenyokj 👋
+<h1 align="center">Tenyokj 👋</h1>
 
-❤️‍🔥 **My Vibe Statement**
+<p align="center">
+Solidity Developer • Web3 Builder • DAO Infrastructure
+</p>
 
-I love the time when, after a hard day, you come home, sit down at your desk, turn on your Mac, and start creating!
-Writing projects, committing, pushing to the repo — that's relaxation.
+<p align="center">
+Building real on-chain systems and Web3 products.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22C55E&center=true&vCenter=true&width=650&lines=Solidity+Developer;DAO+Infrastructure+Builder;AMM+Protocol+Engineer;Building+Real+Web3+Systems" />
+</p>
+
+---
+
+## ❤️‍🔥 My Vibe Statement
+
+I love the moment when after a long day you sit down at your desk, open your laptop, and start building.
+
+Writing smart contracts, committing code, pushing changes — that's real relaxation.
 
 ---
 
 <img src="asset.jpg" height="200" width="1000" style="border-radius:50%"/>
 
-## 🚀 About Me
+---
 
-Solidity developer moving deep into **building something real huge*.
-I love building real products, DAOs and on-chain systems.
+# 🚀 About Me
+
+Solidity developer focused on **building real blockchain infrastructure**.
+
+My main interest is designing **on-chain systems that communities can use to coordinate and build together.**
 
 Currently focused on:
 
-* DAO infrastructure
-* Smart contract architecture
-* Full-stack Web3 apps
+• DAO infrastructure
+• Smart contract architecture
+• DeFi protocol design
+• Full-stack Web3 applications
 
 ---
-## 🧰 My Tech Stack
+
+# 🧰 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=solidity,ethereum,ts,js,react,nextjs,nodejs,rust,python" />
+
+</p>
 
 ### Blockchain
 
@@ -30,8 +56,6 @@ Currently focused on:
 ![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge\&logo=ethereum\&logoColor=black)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge\&logo=ethereum)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Frontend
 
@@ -47,56 +71,150 @@ Currently focused on:
 
 ---
 
-## 🟡 Main Project — BERT DAO dApp
+# 🚀 Core Projects
 
-**BERT** is an upgradeable DAO voting & grant system that turns community proposals into funded outcomes.
+<table>
+<tr>
+<td width="50%">
 
-Users submit ideas, vote with stake, and receive transparent on-chain grant distribution.
+## 🟡 BERT DAO
 
-### ✨ Key Features
+Upgradeable **DAO governance & grant protocol**.
 
-* End-to-end grant flow: **ideas → voting → funding → distribution**
-* Transparent and verifiable state transitions
-* Reputation & voter progression system
-* Role-based permissions for critical actions
-* Upgradeable core modules for long-term evolution
+BERT turns community proposals into **funded outcomes on-chain**.
 
-### 🎯 Why BERT
+### Key Features
 
-* Focused on real outcomes and payouts
-* Community-driven governance
-* Built for long-term DAO growth
+• proposal → voting → funding → distribution
+• reputation & voter progression system
+• upgradeable core modules
+• role-based governance permissions
 
-### 🧩 Use Cases
+### Use Cases
 
-* Community grant programs
-* DAO ecosystem funding rounds
-* Hackathon / builder reward pools
+• DAO grant programs
+• ecosystem funding rounds
+• hackathon builder rewards
 
-### 🔗 Project Links
+🔗 Links
 
-* 📦 Core Contracts: [bert-core](https://github.com/tenyokj/bert-core)
-* 💻 Documentation repo: [bert-docs](https://github.com/tenyokj/bert-docs)
-* 📚 Documentation: [website](https://bertdao-docs.vercel.app)
-* 🌐 Website: [website](https://bertdao.vercel.app)
+Core Contracts
+https://github.com/tenyokj/bert-core
+
+Docs Repo
+https://github.com/tenyokj/bert-docs
+
+Documentation
+https://bertdao-docs.vercel.app
+
+Website
+https://bertdao.vercel.app
+
+</td>
+
+<td width="50%">
+
+## 🔵 AlsoSwap Protocol
+
+Upgradeable **AMM DEX protocol for DAO tokens**.
+
+AlsoSwap provides a full on-chain stack for:
+
+• token listing
+• liquidity provisioning
+• token swapping
+
+### Key Features
+
+• constant-product AMM pools
+• Router & RouterV2 swaps
+• flash swap mechanics
+• TWAP oracle pricing
+• timelocked governance controls
+
+### What You Can Do
+
+• create ERC20 pools
+• provide liquidity and earn fees
+• swap tokens through router
+• integrate TWAP price feeds
+
+### Roadmap
+
+• advanced multi-hop routing
+• deeper liquidity ranking
+• analytics dashboards
+• SDK + frontend integration
+
+🔗 Protocol Repo
+https://github.com/tenyokj/alsoswap-core
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💡 Currently Building
+# 🧠 What I Like Building
 
-* DAO infrastructure & governance tools
-* Smart contract testing with Hardhat
-* Web3 frontend architecture
-
----
-
-# 📕 Github Stats
-[![github-stats-card](https://kasroudra-stats-card.onrender.com/lang?user=tenyokj&layout=compact&type=donut&theme=radical)](https://github.com/KasRoudra/github-stats-card)
+• DAO governance systems
+• DeFi protocols
+• upgradeable smart contract architectures
+• on-chain coordination tools
 
 ---
 
-## 💼 [Portfolio Website](https://tenyokj.vercel.app)
+# 🧪 Smart Contract Development
 
-## 🤝 Let’s Connect
+My workflow focuses on **secure and well-tested contracts**.
 
-Always open to collaboration on Web3, DAO and startup ideas 🚀
+Tools I regularly use:
+
+• Hardhat
+• OpenZeppelin upgradeable contracts
+• test fixtures
+• high-coverage test suites
+
+---
+
+# 📊 Github Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=radical&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=radical&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=react-dark"/>
+
+---
+
+# 💼 Portfolio
+
+🌐 https://tenyokj.vercel.app
+
+---
+
+# 🤝 Let’s Connect
+
+Always open to collaboration on:
+
+• Web3 projects
+• DAO infrastructure
+• protocol development
+• startup ideas
+
+---
+
+<p align="center">
+
+Building the next generation of Web3 infrastructure 🚀
+
+</p>
+
