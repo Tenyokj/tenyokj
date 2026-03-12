@@ -45,7 +45,7 @@ Currently focused on:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity,ethereum,ts,js,react,nextjs,nodejs,rust,python" />
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,rust,python,git,github,apple,electrone,thegraph,godot,npm,vscode,vite,docker" />
 
 </p>
 
