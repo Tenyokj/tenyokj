@@ -77,6 +77,8 @@ Currently focused on:
 <tr>
 <td width="50%">
 
+![banner-bert](banner.png)
+
 ## 🟡 BERT DAO
 
 Upgradeable **DAO governance & grant protocol**.
@@ -113,6 +115,8 @@ https://bertdao.vercel.app
 </td>
 
 <td width="50%">
+
+![banner-asw](alsoswap.png)
 
 ## 🔵 AlsoSwap Protocol
 
