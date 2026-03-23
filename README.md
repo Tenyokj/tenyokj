@@ -69,7 +69,7 @@ Currently focused on:
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge\&logo=python)
 
-## Favourite languages
+## Favorite languages
 
 <p align="center">
 
