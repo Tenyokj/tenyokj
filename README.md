@@ -81,99 +81,44 @@ Currently focused on:
 
 # 🚀 Core Projects
 
-<table>
-<tr>
-<td width="50%">
+![banner-tenji](tenjicoin.png)
 
-![banner-bert](banner.png)
+## 🐢 TENJICOIN
 
-## 🟡 BERT DAO
+TenjiCoin is a meme token built around a simple idea: the market moves too fast for most people.
 
-Upgradeable **DAO governance & grant protocol**.
+Tenji is the turtle that always arrives one candle too late. It is not a mascot for perfect execution or flawless alpha. It is a mascot for the trader who misses the clean entry, hesitates on the exit, and still shows up for the next trade.
 
-BERT turns community proposals into **funded outcomes on-chain**.
+### Why TENJI exists
 
-### Key Features
+The crypto market moves fast. Too fast for most people.
 
-• proposal → voting → funding → distribution
-• reputation & voter progression system
-• upgradeable core modules
-• role-based governance permissions
+Tenji exists for those who are always one step behind, not because they are stupid, but because the market never waits.
 
-### Use Cases
+This is not a token about winning every trade. It is a token about being late and still showing up.
 
-• DAO grant programs
-• ecosystem funding rounds
-• hackathon builder rewards
+Core Facts
+
+    Token name: TenjiCoin
+    Symbol: TENJI
+    Standard: ERC-20
+    Decimals: 18
+    Total supply: 167,000,000,000 TENJI
+    Supply model: fixed at deployment
+    Minting after deployment: not supported
+    Burn support: enabled for token holders
+    Taxes or transfer fees: none
 
 🔗 Links
 
 Core Contracts
-https://github.com/tenyokj/bert-core
-
-Docs Repo
-https://github.com/tenyokj/bert-docs
+https://github.com/TenjiCoin/tenjicoin
 
 Documentation
-https://bertdao-docs.vercel.app
+https://tenjicoin.vercel.app/#/docs
 
 Website
-https://bertdao.vercel.app
-
-</td>
-
-<td width="50%">
-
-![banner-asw](alsoswap.png)
-
-## 🔴 AlsoSwap Protocol
-
-Upgradeable **AMM DEX protocol for DAO tokens**.
-
-AlsoSwap provides a full on-chain stack for:
-
-• token listing
-• liquidity provisioning
-• token swapping
-
-### Key Features
-
-• constant-product AMM pools
-• Router & RouterV2 swaps
-• flash swap mechanics
-• TWAP oracle pricing
-• timelocked governance controls
-
-### What You Can Do
-
-• create ERC20 pools
-• provide liquidity and earn fees
-• swap tokens through router
-• integrate TWAP price feeds
-
-### Roadmap
-
-• advanced multi-hop routing
-• deeper liquidity ranking
-• analytics dashboards
-• SDK + frontend integration
-
-🔗 Protocol Repo
-https://github.com/tenyokj/alsoswap-core
-
-Docs Repo
-https://github.com/tenyokj/alsoswap-docs
-
-Documentation
-https://alsoswap-docs.vercel.app
-
-Website
-https://alsoswap.vercel.app
-
-
-</td>
-</tr>
-</table>
+https://tenjicoin.vercel.app
 
 ---
 
