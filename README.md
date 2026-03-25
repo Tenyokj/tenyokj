@@ -81,7 +81,7 @@ Currently focused on:
 
 # 🚀 Core Projects
 
-![banner-tenji](tenji-turttle 3.png)
+<img src="tenji-turttle.png" height="280" width="280"/>
 
 ## 🐢 TENJICOIN
 
