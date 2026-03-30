@@ -79,51 +79,6 @@ Currently focused on:
 
 ---
 
-# 🚀 Core Projects
-
-<p align="center">
-<img src="tenji-turttle.png" height="380" width="380"/>
-</p>
-
-## 🐢 TENJICOIN
-
-TenjiCoin is a meme token built around a simple idea: the market moves too fast for most people.
-
-Tenji is the turtle that always arrives one candle too late. It is not a mascot for perfect execution or flawless alpha. It is a mascot for the trader who misses the clean entry, hesitates on the exit, and still shows up for the next trade.
-
-### Why TENJI exists
-
-The crypto market moves fast. Too fast for most people.
-
-Tenji exists for those who are always one step behind, not because they are stupid, but because the market never waits.
-
-This is not a token about winning every trade. It is a token about being late and still showing up.
-
-Core Facts
-
-    Token name: TenjiCoin
-    Symbol: TENJI
-    Standard: ERC-20
-    Decimals: 18
-    Total supply: 167,000,000,000 TENJI
-    Supply model: fixed at deployment
-    Minting after deployment: not supported
-    Burn support: enabled for token holders
-    Taxes or transfer fees: none
-
-🔗 Links
-
-Core Contracts
-https://github.com/TenjiCoin/tenjicoin
-
-Documentation
-https://tenjicoin.vercel.app/#/docs
-
-Website
-https://tenjicoin.vercel.app
-
----
-
 # 🧠 What I Like Building
 
 • DAO governance systems
