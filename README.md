@@ -59,4 +59,3 @@ Currently focused on DAO governance design and AMM protocol research.
 ---
 
 Open to collaboration on Web3 projects, DAO infrastructure, and protocol development. Reach out anytime.
-</div>
