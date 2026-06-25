@@ -1,79 +1,166 @@
-<div align="center">
+# 👋 Hey, I'm Tenyokj
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=hey%2C+I%27m+tenyokj+%F0%9F%91%8B;I+build+things+on-chain." />
+<p align="center">
+Smart Contract Engineer • Protocol Builder • Open Source Contributor
+</p>
 
-</div>
+<p align="center">
+Building decentralized systems, DAO infrastructure, and experimental on-chain protocols.
+</p>
 
----
-
-Not chasing trends. Not doing "web3 twitter". Just writing contracts, thinking about systems, and shipping.
-
-My background spans the full stack — but at some point blockchain clicked as the most interesting layer to build on. Something about the combination of **economics, cryptography, and distributed systems** in one place. I stayed.
-
-I write in **Solidity** and **Vyper**. I know when to use which. I test obsessively. I care about what happens after deployment, not just before.
-
----
-
-### What I actually work on
-
-**DAO Infrastructure** — governance isn't just voting. It's proposal lifecycle, delegation graphs, execution layers, timelocks, and the subtle game theory that makes communities not fall apart. I think about all of it.
-
-**DeFi Protocol Design** — AMM curve math, liquidity incentives, fee mechanics, vault architecture. The kind of work where a wrong assumption costs real money, so you get precise.
-
-**Upgradeable Systems** — UUPS, transparent proxies, storage layout, migration scripts. Making contracts that can evolve without breaking what's already there.
-
-**Full-Stack Web3** — subgraph indexing, wallet UX, real-time on-chain data. The contract is half the product; the interface is the other half.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Smart+Contract+Engineer;Solidity+%2B+Vyper+Developer;Building+Protocols+and+DAO+Infrastructure;Open+Source+Web3+Builder;Learning+Something+New+Every+Day" />
+</p>
 
 ---
 
-### Stack
+# ⚡ About Me
 
-<div align="center">
+I'm a developer focused on blockchain infrastructure and smart contract engineering.
 
-<img src="https://skillicons.dev/icons?i=solidity,ts,react,nextjs,nodejs,rust,python,git,docker,graphql,tailwind,vscode" />
+I enjoy designing systems that allow people to coordinate, govern, and build together on-chain.
 
-</div>
+Current interests:
 
-<br/>
-
-**On-chain** — Solidity · Vyper · Hardhat · Foundry · OpenZeppelin · Ethers.js · Chainlink
-
-**Frontend** — React · Next.js · TypeScript · Tailwind · The Graph · Vite
-
-**Backend & tooling** — Node.js · Rust · Python · Docker · IPFS · GraphQL
-
----
-
-### A bit more
-
-I've been around long enough to remember when Hardhat was still Buidler. I've read the Uniswap v2 whitepaper more times than I'd like to admit. I have opinions about EIP-1967 storage slots.
-
-I write tests before I write contracts. I use Vyper when auditability matters more than flexibility. I think most DeFi UI is still terrible and that's a solvable problem.
-
-When I'm not building, I'm reading specs, auditing other people's code in my head, or thinking about coordination problems that probably have on-chain solutions.
+* DAO infrastructure
+* Protocol architecture
+* DeFi mechanics
+* NFT ownership systems
+* Governance design
+* Security-oriented smart contract development
+* Open source Web3 tools
 
 ---
 
-### Stats
+# 🚀 Featured Project
 
-<div align="center">
+## FlashAlliance V3
 
-<img src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=22C55E&text_color=c9d1d9" width="38%"/>
+A protocol for collective NFT ownership and coordinated exit management.
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tenyokj&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E" width="55%"/>
+Features:
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=github-compact&bg_color=0d1117&color=22C55E&line=22C55E&point=ffffff&hide_border=true"/>
-
-</div>
+* Shared NFT ownership
+* On-chain governance
+* Group coordination
+* Exit management mechanisms
+* Vyper-based protocol architecture
 
 ---
 
-### Let's talk
+# 🛠 Tech Stack
 
-If you're building something real in Web3 — a protocol, a DAO, a tool — and you want someone who's thought seriously about the hard parts, reach out.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@tenkoffj-2CA5E0?style=flat-square&logo=telegram&labelColor=0d1117)](https://t.me/tenkoffj)
-[![Portfolio](https://img.shields.io/badge/Portfolio-tenyokj.vercel.app-22C55E?style=flat-square&labelColor=0d1117)](https://tenyokj.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-dv842449-EA4335?style=flat-square&logo=gmail&labelColor=0d1117)](mailto:dv842449@gmail.com)
-[![Reddit](https://img.shields.io/badge/Reddit-PralineSeparate5261-FF4500?style=flat-square&logo=reddit&labelColor=0d1117)](https://www.reddit.com/user/PralineSeparate5261/)
+## Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
+![Vyper](https://img.shields.io/badge/Vyper-1F2937?style=for-the-badge)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge\&logo=ethereum\&logoColor=black)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+
+## Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+
+## Backend & Tools
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+
+---
+
+# 🧠 Currently Learning
+
+* Advanced protocol design
+* Vyper development
+* Smart contract security
+* Formal verification concepts
+* Ethereum internals
+
+---
+
+# 🔬 What I Build
+
+### Protocols
+
+* DeFi primitives
+* DAO tooling
+* Governance systems
+* NFT infrastructure
+
+### Smart Contracts
+
+* Upgradeable architectures
+* ERC20 extensions
+* ERC721 systems
+* Modular contract design
+
+### Applications
+
+* Full-stack Web3 dApps
+* Developer tooling
+* Community coordination systems
+
+---
+
+# 📚 Philosophy
+
+> Code is temporary.
+>
+> Architecture is remembered.
+>
+> Protocols outlive products.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=tokyo-night"/>
+
+---
+
+# 🎯 Goals for 2026
+
+* Launch FlashAlliance V3
+* Contribute to open source Web3 projects
+* Master Vyper
+* Publish production-grade protocols
+* Participate in major hackathons
+* Build useful infrastructure for Ethereum communities
+
+---
+
+# 🌐 Portfolio
+
+https://tenyokj.vercel.app
+
+---
+
+# 🤝 Connect
+
+* Telegram — https://t.me/tenkoffj
+* Reddit — https://reddit.com/user/PralineSeparate5261
+* Email — [dv842449@gmail.com](mailto:dv842449@gmail.com)
+
+---
+
+<p align="center">
+Building things that live on-chain.
+</p>
