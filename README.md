@@ -35,7 +35,7 @@ Current interests:
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind,macos,discord,godot,html,graphql,ipfs,npm,spotify,vite" />
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind,mac,discord,godot,html,graphql,ipfs,npm,spotify,vite" />
 </p>
 
 ## Blockchain
