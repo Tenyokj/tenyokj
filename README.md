@@ -32,26 +32,10 @@ Current interests:
 
 ---
 
-# 🚀 Featured Project
-
-## FlashAlliance V3
-
-A protocol for collective NFT ownership and coordinated exit management.
-
-Features:
-
-* Shared NFT ownership
-* On-chain governance
-* Group coordination
-* Exit management mechanisms
-* Vyper-based protocol architecture
-
----
-
 # 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind,macos,discord,godot,html,graphql,ipfs,npm,spotify,vite" />
 </p>
 
 ## Blockchain
