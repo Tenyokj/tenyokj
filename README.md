@@ -1,150 +1,233 @@
-# 👋 Hey, I'm Tenyokj
+# 👋 Hi, I'm Tenyokj
 
+```{=html}
 <p align="center">
-Smart Contract Engineer • Protocol Builder • Open Source Contributor
+```
+`<img src="./assets/banner.png" width="100%" alt="Banner"/>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-Building decentralized systems, DAO infrastructure, and experimental on-chain protocols.
+```
+`<b>`{=html}Protocol Engineer • Smart Contract Developer • Open Source
+Builder`</b>`{=html}
+```{=html}
 </p>
-
+```
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Smart+Contract+Engineer;Solidity+%2B+Vyper+Developer;Building+Protocols+and+DAO+Infrastructure;Open+Source+Web3+Builder;Learning+Something+New+Every+Day" />
+```
+Building decentralized infrastructure, developer tooling and
+experimental Ethereum protocols.
+```{=html}
 </p>
-
----
-
-# ⚡ About Me
-
-I'm a developer focused on blockchain infrastructure and smart contract engineering.
-
-I enjoy designing systems that allow people to coordinate, govern, and build together on-chain.
-
-Current interests:
-
-* DAO infrastructure
-* Protocol architecture
-* DeFi mechanics
-* NFT ownership systems
-* Governance design
-* Security-oriented smart contract development
-* Open source Web3 tools
-
----
-
-# 🛠 Tech Stack
-
+```
+```{=html}
 <p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind,mac,discord,godot,html,graphql,ipfs,npm,spotify,vite" />
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=900&color=22C55E&center=true&vCenter=true&width=850&lines=Protocol+Engineer;Solidity+%2B+Vyper;Building+Ethereum+Infrastructure;Open+Source+Builder;FlashAlliance;Duglas+Testnet"/>`{=html}
+```{=html}
 </p>
+```
 
-## Blockchain
+------------------------------------------------------------------------
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
-![Vyper](https://img.shields.io/badge/Vyper-1F2937?style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge\&logo=ethereum\&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+## 🚀 About
 
-## Frontend
+Hi! I'm **Tenyokj**, an open-source developer focused on Ethereum.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge\&logo=tailwindcss)
+I enjoy building complete products rather than isolated smart
+contracts: - protocol architecture - Solidity & Vyper smart contracts -
+developer tooling - npm packages - websites - documentation - branding -
+open-source ecosystems
 
-## Backend & Tools
+------------------------------------------------------------------------
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+## 🌌 Ecosystem
 
----
+  Project                   Description
+  ------------------------- --------------------------------------------
+  ⚡ FlashAlliance V3       Collective ownership & governance protocol
+  🧪 Duglas Testnet         Developer ecosystem & tooling
+  📦 Open Source Packages   Libraries & npm packages
+  🌐 Portfolio              Personal website
 
-# 🧠 Currently Learning
+------------------------------------------------------------------------
 
-* Advanced protocol design
-* Vyper development
-* Smart contract security
-* Formal verification concepts
-* Ethereum internals
+## 📌 Current Projects
 
----
+  Project                   Status
+  ------------------------- -----------
+  ⚡ FlashAlliance V3       🟢 Active
+  🧪 Duglas Testnet         🟢 Active
+  📦 Open Source Packages   🟢 Active
+  🌐 Portfolio              🟢 Active
 
-# 🔬 What I Build
+------------------------------------------------------------------------
 
-### Protocols
+## 🎯 Current Focus
 
-* DeFi primitives
-* DAO tooling
-* Governance systems
-* NFT infrastructure
+-   Protocol Engineering
+-   Ethereum Infrastructure
+-   Smart Contract Security
+-   Protocol Architecture
+-   DAO Infrastructure
+-   Vyper
+-   Developer Experience
+-   Open Source
 
-### Smart Contracts
+------------------------------------------------------------------------
 
-* Upgradeable architectures
-* ERC20 extensions
-* ERC721 systems
-* Modular contract design
+## 🛠 Tech Stack
 
-### Applications
+### Blockchain
 
-* Full-stack Web3 dApps
-* Developer tooling
-* Community coordination systems
+-   Solidity
+-   Vyper
+-   Ethereum
+-   Foundry
+-   Hardhat
+-   OpenZeppelin
+-   Ethers.js
+-   Web3.js
+-   IPFS
 
----
+### Smart Contract Engineering
 
-# 📚 Philosophy
+-   ERC Standards
+-   EIP Integration
+-   Upgradeable Contracts
+-   Proxy Patterns
+-   Modular Architectures
+-   DAO Governance
+-   Tokenomics
+-   Access Control
+-   Contract Testing
+-   Gas Optimization
 
-> Code is temporary.
->
-> Architecture is remembered.
->
-> Protocols outlive products.
+### Languages
 
----
+-   Solidity
+-   Vyper
+-   TypeScript
+-   JavaScript
+-   Python
+-   Rust
+-   HTML
+-   CSS
 
-# 📈 GitHub Stats
+### Frontend
 
+-   React
+-   Next.js
+-   TailwindCSS
+-   Vite
+-   GraphQL
+
+### Tooling
+
+-   Git
+-   GitHub
+-   Docker
+-   npm
+-   VS Code
+
+------------------------------------------------------------------------
+
+## 📚 Interests
+
+-   Ethereum Research
+-   Protocol Design
+-   Smart Contract Security
+-   Formal Verification
+-   Account Abstraction
+-   DeFi
+-   NFTs
+-   DAO Governance
+-   Open Source
+-   Developer Tooling
+
+------------------------------------------------------------------------
+
+## 💡 Engineering Principles
+
+-   Security First
+-   Build for Developers
+-   Keep It Modular
+-   Documentation Matters
+-   Open Source Always
+-   Learn Continuously
+
+------------------------------------------------------------------------
+
+## 📈 GitHub Stats
+
+```{=html}
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=tokyonight&hide_border=true" />
+```
+`<img src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+## 🔥 GitHub Streak
 
----
-
-# 🔥 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=tokyo-night"/>
-
----
-
-# 🎯 Goals for 2026
-
-* Launch FlashAlliance V3
-* Contribute to open source Web3 projects
-* Master Vyper
-* Publish production-grade protocols
-* Participate in major hackathons
-* Build useful infrastructure for Ethereum communities
-
----
-
-# 🌐 Portfolio
-
-https://tenyokj.vercel.app
-
----
-
-# 🤝 Connect
-
-* Telegram — https://t.me/tenkoffj
-* Reddit — https://reddit.com/user/PralineSeparate5261
-* Email — [dv842449@gmail.com](mailto:dv842449@gmail.com)
-
----
-
+```{=html}
 <p align="center">
-Building things that live on-chain.
+```
+`<img src="https://streak-stats.demolab.com?user=tenyokj&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+## 📊 Activity Graph
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=tokyo-night"/>`{=html}
+```{=html}
+</p>
+```
+## 🏆 GitHub Trophies
+
+```{=html}
+<p align="center">
+```
+`<img src="https://github-profile-trophy.vercel.app/?username=tenyokj&theme=tokyonight&no-frame=true&row=1&column=6"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+## 🗺️ Roadmap 2026
+
+-   🚀 Launch FlashAlliance V3
+-   🧪 Grow Duglas Ecosystem
+-   📦 Publish more npm packages
+-   🏗️ Build production-grade Ethereum infrastructure
+-   🤝 Contribute to major open-source Web3 projects
+-   🛡️ Improve smart contract security expertise
+-   🏆 Participate in global hackathons
+
+------------------------------------------------------------------------
+
+## 📫 Connect
+
+-   🌐 https://tenyokj.vercel.app
+-   💬 https://t.me/tenkoffj
+-   🐙 https://github.com/tenyokj
+-   📧 dv842449@gmail.com
+
+------------------------------------------------------------------------
+
+```{=html}
+<p align="center">
+```
+### Building infrastructure for the next generation of Ethereum developers.
+
+```{=html}
+</p>
+```
+
