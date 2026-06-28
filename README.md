@@ -1,133 +1,90 @@
-# 👋 Hi, I'm Tenyokj
-
+<h1 align="center">Tenyokj 👋</h1>
 <p align="center">
-<img src="black-banner.jpeg" width="100%">
+Solidity Developer • Web3 Builder • DAO Infrastructure
 </p>
-
-<h3 align="center">Smart Contract Engineer • Protocol Builder • Open Source</h3>
-
 <p align="center">
-Building production-ready smart contracts, developer tooling and decentralized infrastructure.
+Building real on-chain systems and Web3 products.
 </p>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=Smart+Contract+Engineer;Solidity+Developer;Vyper+Developer;Protocol+Engineering;Building+Open+Source+Web3" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=22C55E&center=true&vCenter=true&width=650&lines=Solidity+Developer;DAO+Infrastructure+Builder;AMM+Protocol+Engineer;Building+Real+Web3+Systems" />
 </p>
-
 ---
-
-# 🚀 About
-
-I enjoy building blockchain infrastructure rather than hype.
-
-My primary interests include:
-
-- Smart Contract Engineering
-- Protocol Architecture
-- DAO Infrastructure
-- Developer Tooling
-- DeFi
-- Smart Contract Security
-- Open Source
-
-Currently exploring **advanced EVM design**, **Vyper**, protocol engineering and developer experience.
-
+## ❤️‍🔥 My Vibe Statement
+I love the moment when after a long day you sit down at your desk, open your laptop, and start building.
+Writing smart contracts, committing code, pushing changes — that's real relaxation.
 ---
-
-# ⭐ Featured Projects
-
-## 🟢 Duglas
-Type-safe tooling and infrastructure for Solidity development.
-
-## 🔵 BERT
-Developer tooling and utilities for blockchain workflows.
-
-## ⚫ Vestige
-Experimental Web3 infrastructure and on-chain architecture.
-
+<img src="black-banner.jpeg" height="280" width="1000" style="border-radius:50%"/>
 ---
-
-# ⚙ Current Focus
-
-- Solidity
-- Vyper
-- Protocol Engineering
-- Ethereum
-- Smart Contract Security
-- Open Source
-
+# 🚀 About Me
+Solidity developer focused on **building real blockchain infrastructure**.
+My main interest is designing **on-chain systems that communities can use to coordinate and build together.**
+Currently focused on:
+• DAO infrastructure
+• Smart contract architecture
+• DeFi protocol design
+• Full-stack Web3 applications
 ---
-
 # 🧰 Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,python,rust,docker,git,github,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,react,nextjs,nodejs,rust,python,git,github,apple,electron,graphql,godot,npm,vscode,vite,docker,ipfs,spotify,gmail,tailwind" />
 </p>
-
 ### Blockchain
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
-![Vyper](https://img.shields.io/badge/Vyper-1F2937?style=for-the-badge)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
-![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin)
-
----
-
-# 🧠 Philosophy
-
-> Build useful things.
->
-> Keep contracts simple.
->
-> Prefer architecture over complexity.
->
-> Open source moves everyone forward.
-
----
-
-# 📚 Currently Learning
-
-- Advanced Protocol Design
-- Vyper
-- Ethereum Internals
-- EVM Optimizations
-- Security Research
-
----
-
-# 📊 GitHub Stats
-
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge\&logo=solidity)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=for-the-badge\&logo=ethereum\&logoColor=black)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge\&logo=ethereum)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge\&logo=openzeppelin)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![TheGraph](https://img.shields.io/badge/TheGraph-6f4cff?style=for-the-badge\&logo=thegraph)
+### Backend / Languages
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge\&logo=python)
+## Favorite languages
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=solidity,ts,js,python" />
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tenyokj&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tenyokj&style=for-the-badge&color=22C55E"/>
-</p>
-
 ---
-
-# 🌍 Connect
-
-- 🌐 Portfolio — https://tenyokj.vercel.app
-- 💬 Telegram — https://t.me/tenkoffj
-- 📧 Email — dv842449@gmail.com
-- 👽 Reddit — https://reddit.com/user/PralineSeparate5261
-
+# 🧠 What I Like Building
+• DAO governance systems
+• DeFi protocols
+• upgradeable smart contract architectures
+• on-chain coordination tools
 ---
-
+# 🧪 Smart Contract Development
+My workflow focuses on **secure and well-tested contracts**.
+Tools I regularly use:
+• Hardhat
+• OpenZeppelin upgradeable contracts
+• test fixtures
+• high-coverage test suites
+---
+# 📊 Github Stats
 <p align="center">
-<i>Building the next generation of decentralized infrastructure.</i>
+<img src="https://github-readme-stats.vercel.app/api?username=tenyokj&show_icons=true&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenyokj&layout=compact&theme=radical&hide_border=true"/>
 </p>
-
+---
+# 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tenyokj&theme=react-dark"/>
+---
+# 💼 Portfolio
+🌐 https://tenyokj.vercel.app
+---
+# 🤝 Let’s Connect
+Always open to collaboration on:
+• Web3 projects
+• DAO infrastructure
+• protocol development
+• startup ideas
+## Contacts: 
+• [Telegram](https://t.me/tenkoffj)
+• [Gmail](mailto:dv842449@gmail.com)
+• [Reddit](https://www.reddit.com/user/PralineSeparate5261/)
+---
+<p align="center">
+Building the next generation of Web3 infrastructure 🚀
+</p>
 
