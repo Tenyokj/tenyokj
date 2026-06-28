@@ -58,7 +58,6 @@ My main interest is designing **on-chain systems** that allow communities to coo
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum)
 ![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin)
 ![Foundry](https://img.shields.io/badge/Foundry-CC5500?style=for-the-badge&logo=rust)
-![Vyper](https://img.shields.io/badge/Vyper-E6E6FA?style=for-the-badge&logo=python)
 
 ## Frontend
 
