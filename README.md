@@ -13,7 +13,7 @@ Building real on-chain systems and decentralized products.
 </p>
 
 <p align="center">
-<img src="black-banner.jpeg" width="100%"/>
+<img src="new-banner.jpeg" width="100%"/>
 </p>
 
 ---
